@@ -11,7 +11,7 @@ O módulo faz a liberação no CSP (COntent Security Policy) para os hosts abaix
 
 1. Acesse a raiz do seu projeto Magento 2.x e entre na pasta app/code
 
-~# cd app/code
+`~# cd app/code`
 
 2. Baixe o projeto diretamente do repositório git:
 
