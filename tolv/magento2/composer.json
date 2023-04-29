@@ -1,0 +1,25 @@
+{
+  "name": "tolv/magento2",
+  "authors": [
+    {
+      "name": "Tolv",
+      "email": "suporte@tolv12.com",
+      "homepage": "https://www.tolv.io"
+    }
+  ],
+  "description": "Tolv Magento2 Module",
+  "require": {
+    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+    "magento/magento-composer-installer": "*"
+  },
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Tolv\\Magento2\\": ""
+    }
+  }
+}
